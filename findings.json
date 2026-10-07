@@ -1,0 +1,17 @@
+{
+  "total_revenue": 332432890.44,
+  "total_orders": 54787,
+  "avg_order_value": 6067.73,
+  "top_category": "Electronics",
+  "top_category_share_pct": 46.3,
+  "fastest_growing_category": "Electronics",
+  "fastest_growth_pct": 26.8,
+  "top_region": "East",
+  "best_month": "2025-10",
+  "best_month_revenue": 22416688.82,
+  "forecast_next_3_months": [
+    17954742.34,
+    18283012.1,
+    18611281.85
+  ]
+}
